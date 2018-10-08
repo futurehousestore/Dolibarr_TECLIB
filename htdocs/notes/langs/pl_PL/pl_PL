@@ -1,0 +1,21 @@
+# Dolibarr plik językowy - pl_PL - notatki
+CHARSET= UTF-8
+SUBSTITUTION_NotesNbTeclib=Notatki
+NoNotes=Żadne notatki nie zostały jeszcze wprowadzone
+NoteId=Numer
+NoteDate=Data
+NoteUser=Autor
+NoteContent=Zawartość
+AreYouSureYouWantToDeleteThisNote=Jesteś pewien że chcesz usunąć tę notatkę?
+AddNote=Dodaj notatkę
+EditNote=Edytuj notatkę
+DeleteNote=Usuń notatkę
+AreYouSure=Czy jesteś pewien
+NotesSetup=Ustawienia dokumentacji notatki
+NotesNoSetup=Nie potrzeba nic konkretnie ustawiać. Ten moduł jest od razu dostępny po aktywacji. 
+AboutInfoTecLib=Ten moduł jest stworzony i rozprowadzany przez Laurent Destailleur dla TecLib, <a href="http://www.teclib.com">www.teclib.com</a> (Firma preferowana przez Dolibarr).
+MoreModules=Inne moduły tego samego autora są dostępne na oficjalnym sklepie DoliStore...
+MoreModulesLink=<a target="_blank" href="http://www.dolistore.com/search.php?search_query=teclib">Kliknij tutaj żeby wyświetlić pełną listę</a>  
+MoreCloudHosting=Żeby używać Dolibarr online, należy wybrać bezbieczny hosting DoliCloud.
+MoreCloudHostingLink=<a target="_blank" href="http://www.dolicloud.com">Kliknij tutaj po więcej informacji</a>
+CompatibleWithDoliDroid=Ten moduł jest również kompatybilny z DoliDroid, aplikacją dla Dolibarr na Androida.    
