@@ -1,4 +1,4 @@
-# Dolibarr plik językowy - pl_PL - notatki
+# Dolibarr language file - pl_PL - notatki
 CHARSET= UTF-8
 SUBSTITUTION_NotesNbTeclib=Notatki
 NoNotes=Żadne notatki nie zostały jeszcze wprowadzone
