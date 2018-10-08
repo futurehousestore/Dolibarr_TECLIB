@@ -2,7 +2,7 @@
 CHARSET= UTF-8
 SUBSTITUTION_NotesNbTeclib=Notatki
 NoNotes=Żadne notatki nie zostały jeszcze wprowadzone
-NoteId=Numer
+NoteId=n°
 NoteDate=Data
 NoteUser=Autor
 NoteContent=Zawartość
